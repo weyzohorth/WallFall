@@ -1,0 +1,2 @@
+HORIZONTAL = True
+VERTICAL = False
